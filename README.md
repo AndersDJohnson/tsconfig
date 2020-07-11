@@ -12,13 +12,16 @@ $ npm add -D @andersdjohnson/tsconfig
 
 ## Use
 
+In your `tsconfig.json`:
+
 ```
 {
-	"extends": "@andersdjohnson/tsconfig",
+  "extends": "@andersdjohnson/tsconfig",
   "include": ["src"],
-	"compilerOptions": {
-		"outDir": "dist"
-	}
+  "compilerOptions": {
+    "outDir": "dist",
+    "lib": ["dom", "esnext"],
+  }
 }
 ```
 
