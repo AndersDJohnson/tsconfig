@@ -20,7 +20,7 @@ In your `tsconfig.json`:
   "include": ["src"],
   "compilerOptions": {
     "outDir": "dist",
-    "lib": ["dom", "esnext"],
+    "lib": ["dom", "esnext"]
   }
 }
 ```
