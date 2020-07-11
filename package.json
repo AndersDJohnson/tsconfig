@@ -1,0 +1,24 @@
+{
+  "name": "@andersdjohnson/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for my projects.",
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Anders D. Johnson",
+  "license": "ISC",
+  "repository": "AndersDJohnson/tsconfig",
+  "funding": "https://github.com/sponsors/AndersDJohnson",
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ]
+}
