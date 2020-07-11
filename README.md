@@ -14,7 +14,7 @@ $ npm add -D @andersdjohnson/tsconfig
 
 In your `tsconfig.json`:
 
-```
+```json
 {
   "extends": "@andersdjohnson/tsconfig",
   "include": ["src"],
